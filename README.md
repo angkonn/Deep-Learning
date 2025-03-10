@@ -13,6 +13,4 @@ Metrics (accuracy, loss plots) and model testing scripts.
 # Visualization: 
 Tools for visualizing predictions and model performance.
 # Dependencies:
-Python 3.8+
-PyTorch/TensorFlow
-NumPy, pandas, matplotlib
+Python 3.8+, PyTorch/TensorFlow, NumPy, Pandas, Matplotlib, Seaborn
