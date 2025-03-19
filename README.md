@@ -3,7 +3,7 @@
 
 This repository contains Jupyter notebooks from two Kaggle courses:  
 - **Intro to Deep Learning**  
-- **Computer Vision**  
+- **Computer Vision**
 
 These notebooks cover essential concepts in deep learning and computer vision—from building neural networks to exploring convolutional techniques, pooling, and data augmentation for image processing.
 
